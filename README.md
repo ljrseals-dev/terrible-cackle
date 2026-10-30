@@ -13,6 +13,8 @@ Primary reference (inspiration only, no text reproduced):
 > *CMOS RF and mm-Wave Transceivers and Synthesizers*  
 > Bharatha Kumar Thangarasu, Nagarajan Mahalingam, Kaixue Ma, Kiat Seng Yeo  
 > Jenny Stanford Publishing
+>
+> https://www.taylorfrancis.com/books/mono/10.1201/9781003673569/cmos-rf-mm-wave-transceivers-synthesizers-bharatha-kumar-thangarasu-nagarajan-mahalingam-kaixue-ma-kiat-seng-yeo
 
 The book concerns RF integrated circuits. This repository is an independent audio software project. Only abstract principles (phase accumulation, feedback control, noise shaping, deterministic drift) are adapted.
 
